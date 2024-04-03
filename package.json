@@ -1,0 +1,38 @@
+{
+  "name": "graphifyr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/graphifyr.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/graphifyr/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/graphifyr#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "qs": "^6.12.0",
+    "vite": "^5.2.6",
+    "webpack": "^5.91.0",
+    "[object Object]": "^1.0.0"
+  }
+}
